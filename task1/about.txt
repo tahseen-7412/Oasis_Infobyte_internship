@@ -7,3 +7,7 @@ measurements of the iris species and classify them.
 Although the Scikit-learn library provides a dataset for iris flower classification, you can also
 download the same dataset from here for the task of iris flower classification with Machine
 Learning. 
+
+[Linkedin link :] (https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7060284840440467456-Njh3?utm_source=share&utm_medium=member_desktop)
+
+[Google colab link :] (https://colab.research.google.com/drive/1ASbTR5y8mY5C5RtsdwUxnWWJbYCz5oxV)
