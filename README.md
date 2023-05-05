@@ -3,7 +3,7 @@
 ## Data Science Internship
 
 ### Tasks
-1. IRIS FLOWER CLASSIFICATION [Linkedin post] (https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7060284840440467456-Njh3?utm_source=share&utm_medium=member_desktop)
+1. IRIS FLOWER CLASSIFICATION [Linkedin post](https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7060284840440467456-Njh3?utm_source=share&utm_medium=member_desktop)
 
 2. UNEMPLOYMENT ANALYSIS WITH PYTHON
 
