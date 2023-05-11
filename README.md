@@ -9,6 +9,6 @@
 
 3. CAR PRICE PREDICTION WITH MACHINE LEARNING [Linkedin Post](https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7061626158655680512-emCR?utm_source=share&utm_medium=member_desktop)
 
-4. EMAIL SPAM DETECTION WITH MACHINE LEARNING
+4. EMAIL SPAM DETECTION WITH MACHINE LEARNING [Linkedin Post](https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7062348219350990848-ysgA?utm_source=share&utm_medium=member_desktop)
 
 5. SALES PREDICTION USING PYTHON
