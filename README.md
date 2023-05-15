@@ -11,4 +11,4 @@
 
 4. EMAIL SPAM DETECTION WITH MACHINE LEARNING [Linkedin Post](https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7062348219350990848-ysgA?utm_source=share&utm_medium=member_desktop)
 
-5. SALES PREDICTION USING PYTHON
+5. SALES PREDICTION USING PYTHON [Linkedin Post](https://www.linkedin.com/posts/tahseen-begum_oasisinfobyte-internship-datascience-activity-7063785615821045760-P_yO?utm_source=share&utm_medium=member_desktop)
